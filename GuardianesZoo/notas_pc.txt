@@ -1,0 +1,3 @@
+Notas sobre esta práctica.
+El overrirde es cuando el método ya se usaba en la clase anterior, si no exite solo se define.
+Primero utilizo el set para obtener el valor de la energía del gorila de Mamífero. 
